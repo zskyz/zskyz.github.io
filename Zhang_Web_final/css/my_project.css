@@ -1,0 +1,61 @@
+html{
+    
+    background-image:url("http://www.hdbilder.eu/pictures/2016/0406/1/abstract-flowers-gray-patterns-floral-white-background-1920x1080-wallpaper-647455.jpg");
+    
+    
+}
+
+body{
+        
+        width: 1000px;
+        padding: :60px;
+        margin-top: 60px;
+        margin-left: auto;
+        margin-right: auto;
+        
+        text-align: center;
+        
+    
+        border: 4px solid #000;
+    
+        background-color:gainsboro;   
+    }
+
+
+a{
+    
+    font-size:20pt;
+    color:burlywood;
+    text-decoration:none;
+    text-align: center;
+    font-family:'Shojumaru';
+    
+}
+a:hover{
+    
+    color:#000;
+}
+
+h1{
+    font-size: 24pt;
+    color: #000;
+    border-top: 2px dotted #686143;
+    border-bottom: 2px dotted #686143;
+    text-transform: uppercase;
+    font-family: 'Fredericka the Great';
+    
+}
+
+p{
+    font-size: 18px;
+    line-height: 14px;
+    font-family: 'Shadows Into Light';
+    
+}
+ul{
+    font-family: 'Shadows Into Light';
+    text-align: left;
+    
+}
+
+
